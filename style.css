@@ -1,0 +1,10 @@
+.rasm{
+        margin-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 800px;
+    height: 200px;
+    border: 1px solid rgb(209, 201, 201);
+    background-color: rgb(224, 222, 222);
+}
